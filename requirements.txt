@@ -1,0 +1,4 @@
+pytelegrambotapi
+pixelmatch
+pillow
+numpy
